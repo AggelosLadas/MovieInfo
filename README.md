@@ -11,7 +11,8 @@
 
 MovieInfo is a simple Android application built with Jetpack Compose that allows users to search for movies and TV series using the OMDb API.  
 It uses Retrofit for network calls and displays search results in a minimal and responsive interface.
-[App Preview](screenshots/MovieInfo.png)
+
+![App Preview](screenshots/MovieInfo.png)
 
 ---
 
